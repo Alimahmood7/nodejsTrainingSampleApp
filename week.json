@@ -1,0 +1,28 @@
+{
+    "Mon":
+    { 
+      "time" : "8:00",
+      "description":"training"
+    },
+    "Tue":
+    {
+      "time" : "8:00",
+      "description":"training"
+    },
+    "Wed":
+    {
+        "time" : "8:00",
+        "description":"training" 
+    },
+    "Thurs":
+     {
+        "time" : "8:00",
+        "description":"training"
+     },
+    "Fri":
+     {
+        "time" : "8:00",
+        "description":"training"
+     },
+     "total": "40:00"
+}

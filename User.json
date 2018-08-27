@@ -1,0 +1,25 @@
+{
+    "email":"user@gmail.com",
+    "username" : "username",
+    "password":"password",
+    "type":"1",
+    "CreatedAt":"12/12/2018",
+    "personal_detail" : {
+        "fullname":"fullname",
+        "middlename":"middlename",
+        "gender":"gender",
+        "DOB":"DOB"
+    },
+    "contact_detail": {
+        "telephone":"1234567",
+        "mobileNo":"022332112",
+        "address":{
+            "street": "String",
+            "city": "String",
+            "state": "state",
+            "zip": "Number"
+        }
+    }
+
+
+}
